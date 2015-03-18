@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        netcool clip
 // @namespace   adam.dvorak+ibm@gmail.com
-// asdasd@asddownloadURL 
+// @downloadURL http://pastebin.com/raw.php?i=im4Z9Kmx
 // @updateURL   https://raw.githubusercontent.com/qral/userjss/master/netcool_clip.meta.js
 // @version     1.4
 // @description		ALL UR CLIPBOARD ARE BELONG TO US  -  copy2clipboard hack - thank you, you are making our job easier
